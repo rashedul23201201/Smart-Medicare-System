@@ -1,0 +1,2 @@
+ID: 200 | Patient: Mahin | Gender: Male | Age: 23 | Phone: 01315793605 | Symptoms: [fever, cough] | Record Date: 02/06/2025 | Description: 23 year male presenting with cough and fever for 3 days. | Emergency: A history of low blood pressure.
+------------------------------------------------------------

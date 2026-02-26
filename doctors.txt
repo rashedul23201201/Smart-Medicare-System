@@ -1,0 +1,4 @@
+D001,Kalam,40,fever,10am-12pm,sunday,500
+D002,Karim,45,cough,1pm-3pm,monday,400
+D003,Rahim,50,headache,2pm-4pm,tuesday,600
+D004,Toumik,55,alergy,2pm-6pm,wednesday,350

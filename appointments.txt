@@ -1,0 +1,2 @@
+Appointment => Patient ID: 200 | Doctor ID: D001 | Date: sunday | Time: 10am-12pm
+------------------------------------------------------------
